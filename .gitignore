@@ -36,6 +36,7 @@ lib64/
 parts/
 sdist/
 var/
+temp/
 wheels/
 pip-wheel-metadata/
 share/python-wheels/
@@ -110,6 +111,8 @@ ENV/
 env.bak/
 venv.bak/
 .temp
+temp/
+.temp/
 
 
 # Spyder project settings
